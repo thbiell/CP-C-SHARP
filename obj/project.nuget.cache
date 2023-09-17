@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TtfYRyMXeUA7B4swG2Djfch17Tw2Y0tQa/f2guCQHBYFKyzttAXe+YOJfHTeJW5/I4lw44hXEDKONGL95jtAMw==",
+  "dgSpecHash": "Aqy8Kjt4N1W5BK19DhansPK31JgUaCI+89wS3uD5mallDxZz05SpWYqD2/9Wpb4Q5vSf6eXR9YieiBmv962MJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samsung\\Downloads\\SoulCoderzAPI-main\\SoulCoderzAPI-main\\CheckpointAPI.csproj",
+  "projectFilePath": "C:\\Users\\Samsung\\Desktop\\Checkpoint\\CheckpointAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samsung\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Samsung\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

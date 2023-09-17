@@ -2315,11 +2315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samsung\\Downloads\\SoulCoderzAPI-main\\SoulCoderzAPI-main\\CheckpointAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\Checkpoint\\CheckpointAPI.csproj",
       "projectName": "CheckpointAPI",
-      "projectPath": "C:\\Users\\Samsung\\Downloads\\SoulCoderzAPI-main\\SoulCoderzAPI-main\\CheckpointAPI.csproj",
+      "projectPath": "C:\\Users\\Samsung\\Desktop\\Checkpoint\\CheckpointAPI.csproj",
       "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samsung\\Downloads\\SoulCoderzAPI-main\\SoulCoderzAPI-main\\obj\\",
+      "outputPath": "C:\\Users\\Samsung\\Desktop\\Checkpoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
